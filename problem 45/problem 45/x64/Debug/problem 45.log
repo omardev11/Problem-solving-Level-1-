@@ -1,0 +1,4 @@
+﻿  problem 45.cpp
+E:\apps\c++\problem 45\problem 45\problem 45.cpp(17,25): warning C4101: 'mymonthdays': unreferenced local variable
+E:\apps\c++\problem 45\problem 45\problem 45.cpp(69): warning C4715: 'getmonth': not all control paths return a value
+  problem 45.vcxproj -> E:\apps\c++\problem 45\x64\Debug\problem 45.exe

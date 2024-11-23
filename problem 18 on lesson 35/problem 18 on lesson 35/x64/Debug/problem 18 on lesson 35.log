@@ -1,0 +1,5 @@
+﻿  problem 18 on lesson 35.cpp
+E:\apps\c++\problem 18 on lesson 35\problem 18 on lesson 35\problem 18 on lesson 35.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\apps\c++\problem 18 on lesson 35\problem 18 on lesson 35\problem 18 on lesson 35.cpp(14,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\apps\c++\problem 18 on lesson 35\problem 18 on lesson 35\problem 18 on lesson 35.cpp(17,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  problem 18 on lesson 35.vcxproj -> E:\apps\c++\problem 18 on lesson 35\x64\Debug\problem 18 on lesson 35.exe

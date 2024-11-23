@@ -1,0 +1,4 @@
+﻿  Problem 18.cpp
+E:\apps\c++\Problem 18\Problem 18\Problem 18.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\apps\c++\Problem 18\Problem 18\Problem 18.cpp(14,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Problem 18.vcxproj -> E:\apps\c++\Problem 18\x64\Debug\Problem 18.exe

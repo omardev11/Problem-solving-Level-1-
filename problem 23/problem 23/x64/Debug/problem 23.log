@@ -1,0 +1,4 @@
+﻿  problem 23.cpp
+E:\apps\c++\problems solved by me\problem 23\problem 23\problem 23.cpp(9,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\apps\c++\problems solved by me\problem 23\problem 23\problem 23.cpp(15,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  problem 23.vcxproj -> E:\apps\c++\problems solved by me\problem 23\x64\Debug\problem 23.exe

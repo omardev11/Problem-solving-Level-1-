@@ -1,0 +1,4 @@
+﻿  problem 40.cpp
+E:\apps\c++\problem 40\problem 40\problem 40.cpp(15,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\apps\c++\problem 40\problem 40\problem 40.cpp(16,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  problem 40.vcxproj -> E:\apps\c++\problem 40\x64\Debug\problem 40.exe

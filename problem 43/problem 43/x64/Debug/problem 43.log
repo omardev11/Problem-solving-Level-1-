@@ -1,0 +1,5 @@
+﻿  problem 43.cpp
+E:\apps\c++\problems solved by me\problem 43\problem 43\problem 43.cpp(13,25): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+E:\apps\c++\problems solved by me\problem 43\problem 43\problem 43.cpp(15,26): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+E:\apps\c++\problems solved by me\problem 43\problem 43\problem 43.cpp(17,28): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  problem 43.vcxproj -> E:\apps\c++\problems solved by me\problem 43\x64\Debug\problem 43.exe

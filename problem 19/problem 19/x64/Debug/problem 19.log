@@ -1,0 +1,4 @@
+﻿  problem 19.cpp
+E:\apps\c++\problem 19\problem 19\problem 19.cpp(10,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\apps\c++\problem 19\problem 19\problem 19.cpp(13,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  problem 19.vcxproj -> E:\apps\c++\problem 19\x64\Debug\problem 19.exe
